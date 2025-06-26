@@ -490,3 +490,4 @@ aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gatewa
 2025-06-26 11:32:27,748 - discord.gateway - INFO - Shard ID None session has been invalidated.
 2025-06-26 11:32:34,060 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fb39f3f6bd56552b9ef390fbfc7c089e).
 2025-06-26 12:25:10,027 - discord.gateway - INFO - Shard ID None has successfully RESUMED session fb39f3f6bd56552b9ef390fbfc7c089e.
+2025-06-26 13:36:43,894 - discord.gateway - INFO - Shard ID None session has been invalidated.
