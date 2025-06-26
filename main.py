@@ -5,6 +5,7 @@ import logging
 import os
 from pathlib import Path
 
+# what am I doing
 # Setup logging
 logging.basicConfig(
     level=logging.INFO,
